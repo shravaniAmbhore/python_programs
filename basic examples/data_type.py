@@ -1,0 +1,14 @@
+x=12
+y=1.2
+z="hello"
+arr=[10,30,50]
+t1=(10,20,30)
+d1={"id":100,"name":"xyn"}
+s1={10,20,70}    
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(arr))
+print(type(t1))
+print(type(d1))
+print(type(s1))
